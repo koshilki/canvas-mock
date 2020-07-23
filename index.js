@@ -19,6 +19,7 @@ module.exports = function (el) {
 					width: 0
 				}
 			},
+			strokeText: function(){},
 			restore: function(){},
 			beginPath: function(){},
 			moveTo: function(){},
