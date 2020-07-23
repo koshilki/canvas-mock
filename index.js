@@ -14,6 +14,7 @@ module.exports = function (el) {
 			drawImage: function(){},
 			save: function(){},
 			fillText: function(){},
+			measureText: function(){},
 			restore: function(){},
 			beginPath: function(){},
 			moveTo: function(){},
